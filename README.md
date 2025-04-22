@@ -2,4 +2,4 @@
 - 👀 I’m interested in new technologies, new ways of thinking and working on cool new projects
 - 🌱 I’m a navy veteran - turned software engineer. I graduated from the Prime Academy Full Stack Software Engineering course in Minneapolis, MN in 2022.
 - 📫 How to reach me: fens-idea-0b@icloud.com (forwards to my normal email address)
-- 🧠 Current passion projects include learning python - specifically object oriented programming
+- 🧠 Current passion projects include ai applications
